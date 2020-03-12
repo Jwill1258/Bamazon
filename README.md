@@ -1,5 +1,6 @@
 # Bamazon
 
-# Programs Used: | HTML | CSS | MySQL | Javascript |
+This app functions as a online market place that allows customers to place orders and accurately stores the data for the company reps to keep record of all transactions and metrics.
 
-Throught the utilization of MySql I have created a program that can create a product list that displays to users. When user wants to buy an item, the database updates the amount and shows the user the purchase order costs. If there isn't enough of the product left in stock, the database doesn't fulfill the order, and tells the user. The deployed assignment has been added to their deployed portfolio with a link provided in the submission.
+
+
