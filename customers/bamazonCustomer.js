@@ -1,9 +1,7 @@
-// Initializes the npm packages used
 var mysql = require("mysql");
 var inquirer = require("inquirer");
 require("../managers/node_modules/console.table");
 
-// Initializes the connection variable to sync with a MySQL database
 var connection = mysql.createConnection({
   host: "localhost",
   port: 3306,
@@ -22,7 +20,6 @@ connection.connect(function(err) {
 
 });
 
-// Integrate products from the database and print to the console
 function loadProducts() {
 
   connection.query("SELECT * FROM products", function(err, res) {
@@ -34,7 +31,6 @@ function loadProducts() {
   });
 }
 
-// Prompt the customer for a product ID
 function promptCustomerForItem(inventory) {
 
   inquirer
