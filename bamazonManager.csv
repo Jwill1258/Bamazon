@@ -1,11 +1,10 @@
 "item_id";"product_name";"department_name";"price";"stock_quantity"
-1;"NBA 2K20";"Entertainment";59.99;100
-2;"Crate of Spam";"Groceries";24.5;50
-3;"Crate of Spam";"Groceries";24.5;50
-4;"Cool Shades";"Apparel";75.0;5
-5;"Worn Denim Jeans";"Apparel";54.25;35
-6;"Survival Towel";"Home Decor";42.42;42
-7;"Survival Towel";"Home Decor";42.42;42
-8;"Mad Max: Fury Road";"Entertainment";25.5;57
-9;"Monopoly";"Entertainment";30.5;35
-10;"Yahtzee";"Entertainment";19.95;23
+1;"Gameboy";"Electronics";89.95;150
+2;"NBA2K20";"Electronics";59.99;200
+3;"White Tee";"Clothing";14.50;5
+4;"Black Tee";"Clothing";16.25;35
+5;"Shampoo";"Necessities";11.50;42
+6;"Avatar";"Electronics";25.00;25
+7;"Lion King";"Electronics";25.50;57
+8;"Checkers";"Games";15.50;35
+9;"Chess";"Games";19.99;23
